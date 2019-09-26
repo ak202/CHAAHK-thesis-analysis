@@ -1,0 +1,11 @@
+,Symbol,MaxPop,MinPop,FinalPop,SLG
+Intercept,,546.326,191.847,332.097,1.675
+Disturbance Removal Chance,$Drc$,-70.299,-803.779,-156.378,-1.855
+Fecundity Promotive Increase Rate,$F_{p}i$,38111.42,18862.517,27830.969,-44.875
+Fecundity Promotive Resilience,$F_{p}r$,266.556,308.119,314.289,0.379
+Fecundity Demotive Increase Rate,$F_{d}i$,-233069.105,-116197.94,-178729.532,153.807
+Fecundity Demotive Resilience,$F_{d}r$,-25.501,-53.906,-63.848,-0.174
+Cost Promotive Increase Rate,$C_{p}i$,29973.085,13453.677,22920.684,-38.879
+Cost Promotive Resilience,$C_{p}r$,34.597,59.526,57.944,0.134
+Cost Demotive Increase Rate,$C_{d}i$,-18183.764,-4785.314,-11531.995,28.84
+Cost Demotive Resilience,$C_{d}r$,-27.103,-44.928,-57.768,-0.123

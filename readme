@@ -1,0 +1,6 @@
+Dear interested person,
+
+This software is shared more for the sake of transparency than explicit reproducibility. However, anyone is more than welcome to reproduce my results, but it may not be straightforward to do so. I run these analyses via the CHAAHK_output_analysis script. You my choose to do so yourself or run each individual R script from the command line or interactively. All three methods will require tinkering with the code. I apologize for this but at the moment my time is limited, so I will not be spending any making my software "easy to use" at least until I know theres some vague desire for such features. You are more than welcome to reach out to me at alexaugustuskara@gmail.com. I would be glad to help execute you this or recieve other questions, comments, and suggestions.
+
+Happy Kerplunking,
+Alex
